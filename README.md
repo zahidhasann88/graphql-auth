@@ -22,7 +22,7 @@ A simple GraphQL API with JWT authentication built with Node.js, TypeScript, Pos
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo>
+git clone https://github.com/zahidhasann88/graphql-auth.git
 cd graphql-auth
 npm install
 ```
